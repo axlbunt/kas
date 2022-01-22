@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#__next {
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#map {
+  width: 100vw;
+  height: 100vh;
+}
